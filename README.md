@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm S P Ruchir</h1>
 <h3 align="left">I am a Java backend developer who specializes in Spring Boot, explores AI/ML for smarter solutions, and has practical experience working with blockchain technology.</h3>
 
-- 🔭 I’m currently working on **File Sharing and collab platform on Spring**
+- 🔭 I’m currently working on **F1 Race Strategy Predictor**
 
 - 🌱 I’m currently learning **Spring, Docker & Kubernetes**
 
